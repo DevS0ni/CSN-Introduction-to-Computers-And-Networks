@@ -129,6 +129,7 @@ For the Camera Surveillance Python Project
 
 For Labs & Assignments:
  > PC Building Simulator: Education Edition (Software)
+ > Cisco Packet Tracer (Software)
  > Raspberry Pi 2 or higher (Hardware)
 ```
 ----------------------------------------
