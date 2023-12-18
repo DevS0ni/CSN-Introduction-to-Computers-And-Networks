@@ -4,6 +4,8 @@ This repository contains all of my code programs and work which I performed in t
 * Labs (#5)
 * Assignments & Projects (#2)
 
+NOTE: Inorder to open the '.pkt' files, you need to have the Cisco Packet Tracer Application installed in your machine.
+
 ----------------------------------------
 Course Description
 ----------------------------------------
