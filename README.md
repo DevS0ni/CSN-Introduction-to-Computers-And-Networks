@@ -2,7 +2,7 @@
 
 This repository contains all of my code programs and work which I performed in the above mentioned course.
 * Labs (#5)
-* Assignments (#2)
+* Assignments & Projects (#2)
 
 ----------------------------------------
 Course Description
