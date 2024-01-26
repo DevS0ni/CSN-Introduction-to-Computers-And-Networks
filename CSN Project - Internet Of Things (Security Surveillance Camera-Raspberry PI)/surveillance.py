@@ -26,9 +26,9 @@ Security System
 """
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SENDER_USERNAME = '[YOUR_SENDER_EMAIL]'
-SENDER_PASSWORD = '******************************'
-RECEIVER_EMAIL = '[RECEIVER_EMAIL]'
+SENDER_USERNAME = 'soni.devk19@gmail.com'
+SENDER_PASSWORD = '************' # Hide Intentionally!
+RECEIVER_EMAIL = 'onedf3112@gmail.com'
 
 # *********************************************** Video filename and path *************************************************
 filename_prefix = "surveillance"
